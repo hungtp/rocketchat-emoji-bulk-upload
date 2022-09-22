@@ -9,7 +9,7 @@ Bulk upload for custom emoji of rocket.chat
 4. Check `Ignore Two Factor Authentication` checkbox
 5. Click button `Add`
 6. A dialog which contains your user id & token will be displayed
-7. Fill received values to corresponsing key in `.env` file
+7. Fill received values to corresponding keys in `.env` file
 
 
 # Usage
