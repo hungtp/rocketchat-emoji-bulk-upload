@@ -1,0 +1,30 @@
+{
+  "name": "rocketchat-emoji-bulk-upload",
+  "version": "1.0.0",
+  "description": "Bulk upload for custom emoji of rocket.chat",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungtp/rocketchat-emoji-bulk-upload.git"
+  },
+  "keywords": [
+    "rocketchat",
+    "custom-emoji"
+  ],
+  "author": "hungtp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hungtp/rocketchat-emoji-bulk-upload/issues"
+  },
+  "homepage": "https://github.com/hungtp/rocketchat-emoji-bulk-upload#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
+    "inquirer": "^9.1.2",
+    "winston": "^3.8.2"
+  }
+}
